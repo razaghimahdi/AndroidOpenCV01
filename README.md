@@ -1,3 +1,7 @@
+
+## Give a Star! ⭐
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+
 Mat:
 Used to store values of an image...
 A Mat is the thing we call a "matrix" in Mathematics - a rectangular array of quantities set out by
